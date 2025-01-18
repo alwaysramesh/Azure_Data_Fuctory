@@ -1,0 +1,9 @@
+{
+	"name": "Project-Prac",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8dbb1aa-6dc0-4d43-8d44-7e43a3cc0c46",
+		"tenantId": "50685ea7-834a-45ba-b01e-e241815f9642"
+	}
+}
