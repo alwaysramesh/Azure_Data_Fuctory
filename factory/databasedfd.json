@@ -1,0 +1,9 @@
+{
+	"name": "databasedfd",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa4ae794-7beb-450e-baab-a0ac61dbe5b6",
+		"tenantId": "50685ea7-834a-45ba-b01e-e241815f9642"
+	}
+}
