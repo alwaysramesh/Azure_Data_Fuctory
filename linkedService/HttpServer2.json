@@ -1,0 +1,12 @@
+{
+	"name": "HttpServer2",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Hossam-EL-Sherbiny/adventure-works-analysis/refs/heads/main/AdventureWorks-sales-dataset.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
