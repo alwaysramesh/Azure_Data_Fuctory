@@ -1,0 +1,9 @@
+{
+	"name": "project-new",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ed2b584a-4eb1-4fd9-9e73-051c6eed4c3a",
+		"tenantId": "50685ea7-834a-45ba-b01e-e241815f9642"
+	}
+}
